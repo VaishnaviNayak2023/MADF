@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\madf lab\exp3\mergesort1\mergesort1\source.cpp(51): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  mergesort1.vcxproj -> D:\MADF Lab\exp3\mergesort1\Debug\mergesort1.exe
+  mergesort1.vcxproj -> D:\MADF Lab\exp3\mergesort1\Debug\mergesort1.pdb (Partial PDB)
